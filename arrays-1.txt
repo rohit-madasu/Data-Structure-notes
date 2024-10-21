@@ -1,0 +1,1 @@
+Arrays are used when the size of the input is already known to us.
